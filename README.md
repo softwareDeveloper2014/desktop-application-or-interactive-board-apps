@@ -9,6 +9,16 @@
 видеообзор:
 https://rutube.ru/video/a8efeeca90e0aae2f7dd2995a7d57448/
 
+ссылки:
+
+- один из продуктов, который был полностью разработан мною(ЦМС + контент):  
+https://web.archive.org/web/20201023163058/http://www.nd.ru/catalog/products/disclosedmathsstereometry/
+
+- обучающие курсы можно приобрести в онлайн магазине компании:  
+  https://web.archive.org/web/20201023163058/http://www.nd.ru/catalog/education/
+
+
+
 функционал:
 
 - воспроизведение аудио, видео, слайд шоу, анимаций содержащихся в образовательных интерактивных курсах
@@ -37,14 +47,4 @@ https://rutube.ru/video/a8efeeca90e0aae2f7dd2995a7d57448/
 языки программирования: ActionScript 2.0, ActionScript 3.0, C#
 
 фреймворки: фреймворк Microsoft (поддержка нескольких мышей в ЦМС для Windows)
-
-ссылки:
-
-- один из продуктов, который был полностью разработан мною(ЦМС + контент):  
-https://web.archive.org/web/20201023163058/http://www.nd.ru/catalog/products/disclosedmathsstereometry/
-
-- обучающие курсы можно приобрести в онлайн магазине компании:  
-  https://web.archive.org/web/20201023163058/http://www.nd.ru/catalog/education/
-
-
 
