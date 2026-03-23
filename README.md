@@ -6,10 +6,10 @@
 
 ## 1 обзор проекта
 
-видеообзор:
+видеообзор:  
 https://rutube.ru/video/a8efeeca90e0aae2f7dd2995a7d57448/
 
-ссылки:
+ссылки:  
 
 - один из продуктов, который был полностью разработан мною(ЦМС + контент):  
 https://web.archive.org/web/20201023163058/http://www.nd.ru/catalog/products/disclosedmathsstereometry/
